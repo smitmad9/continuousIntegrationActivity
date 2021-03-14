@@ -8,4 +8,4 @@ Here is the output from my Terminal with the command: pytest --v -cov
 
 Here is the proof of my successful build on CircleCI:
 ![Build](https://github.com/smitmad9/continuousIntegrationActivity/blob/main/Circlecibuild.png)
-![Tests](https://github.com/smitmad9/continuousIntegrationActivity/blob/main/Circlecitests.png)
+![Tests](https://github.com/smitmad9/continuousIntegrationActivity/blob/main/CircleCItests.png)
