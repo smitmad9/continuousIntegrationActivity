@@ -1,11 +1,11 @@
 # 1. Implement addition and subtraction, commit to github repo
 
 def addition(x, y):
-    return float(x) + float(y)
+    return x + y
 
 
 def subtraction(x, y):
-    return float(x) - float(y)
+    return x - y
 
 # def multiplication(x, y):
 #     return x * y
